@@ -1,0 +1,9 @@
+{
+  "name": "thepixelfashion",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Pixel Fashion Online Store",
+  "scripts": {
+    "dev": "python server.py"
+  }
+}
